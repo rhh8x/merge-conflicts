@@ -1,0 +1,11 @@
+Log:
+main creates file.txt
+
+Content:
+Sunday is 0
+Monday is 1
+Tuesday is 2
+Wednesday is 3
+Thursday is 4
+Friday is 5
+Saturday is 6
