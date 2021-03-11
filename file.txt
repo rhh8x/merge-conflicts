@@ -1,11 +1,12 @@
 Log:
 main creates file.txt
+main increases every number by 10
 
 Content:
-Sunday is 0
-Monday is 1
-Tuesday is 2
-Wednesday is 3
-Thursday is 4
-Friday is 5
-Saturday is 6
+Sunday is 10
+Monday is 11
+Tuesday is 12
+Wednesday is 13
+Thursday is 14
+Friday is 15
+Saturday is 16
