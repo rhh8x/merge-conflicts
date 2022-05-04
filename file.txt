@@ -1,12 +1,12 @@
 Log:
 main creates file.txt
+main increases every number by 10
 feature increases every number by 20
-
 Content:
-Sunday is 20
-Monday is 21
-Tuesday is 22
-Wednesday is 23
-Thursday is 24
-Friday is 25
-Saturday is 26
+Sunday is 30
+Monday is 31
+Tuesday is 32
+Wednesday is 33
+Thursday is 34
+Friday is 35
+Saturday is 36
